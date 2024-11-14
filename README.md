@@ -1,2 +1,2 @@
 # hakaton
-program fro hakaton
+program for hakaton
